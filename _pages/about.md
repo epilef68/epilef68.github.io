@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Felipe</strong>A</strong>Mejia
+title: <strong>Felipe </strong>A </strong>Mejia
 description: <a href="">Lab41</a>. 
 
 profile:
