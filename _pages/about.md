@@ -6,7 +6,7 @@ description: <a href="">Lab41</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 10.pgm
   address: >
     <p>Data Scientist</p>
     <p> Lab41 </p>
